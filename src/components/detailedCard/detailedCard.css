@@ -1,0 +1,7 @@
+.itemCard {
+  font-size: 25px;
+  color: seagreen;
+  text-shadow: 3px 3px 10px black;
+  border-bottom: 1px solid white;
+  opacity: 0.8;
+}

@@ -1,0 +1,47 @@
+.hui {
+  background-color: red;
+}
+
+@keyframes ldio-hczbbpadvms {
+    0% {
+        top: 77.83px;
+        left: 77.83px;
+        width: 0;
+        height: 0;
+        opacity: 1;
+    }
+    100% {
+        top: -26.245px;
+        left: -26.245px;
+        width: 208.15px;
+        height: 210.15px;
+        opacity: 0;
+    }
+}.ldio-hczbbpadvms div {
+     position: absolute;
+     border-width: 12.73px;
+     border-style: solid;
+     opacity: 1;
+     border-radius: 50%;
+     animation: ldio-hczbbpadvms 0.8474576271186441s cubic-bezier(0,0.2,0.8,1) infinite;
+ }.ldio-hczbbpadvms div:nth-child(1) {
+      border-color: #9900ff;
+      animation-delay: 0s;
+  }
+.ldio-hczbbpadvms div:nth-child(2) {
+    border-color: #005cff;
+    animation-delay: -0.42372881355932207s;
+}
+.ldio-hczbbpadvms {
+  background-color: red;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0;
+}
+.ldio-hczbbpadvms div { box-sizing: content-box; }
+
+.rippleHeight {
+  min-height: 200px;
+}
+

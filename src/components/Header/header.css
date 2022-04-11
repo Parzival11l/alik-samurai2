@@ -1,0 +1,13 @@
+.head-a{
+    font-size: 20px;
+    color:dodgerblue;
+    text-shadow: 4px 4px 15px purple;
+}
+.header {
+    font-size: 60px;
+    color: white;
+    text-shadow: 2px 2px 10px blue;
+}
+.allHeader{
+    background-color: darkslategrey;
+}

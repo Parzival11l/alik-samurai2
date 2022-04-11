@@ -1,0 +1,40 @@
+.btn {
+    margin: 15px;
+    height: 20%;
+    border: 0;
+    background-color: red;
+    color:yellow;
+    box-shadow: 2px 2px 10px greenyellow;
+}
+
+.txt {
+    font-size: 35px;
+    color: darkturquoise;
+    text-shadow: 2px 2px 10px darkmagenta;
+}
+
+.txt2 {
+    margin: 20px;
+    font-size: 20px;
+    color:aquamarine;
+    text-shadow: 2px 2px 10px darkred;
+}
+
+.boom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200px;
+    color:darkred;
+    text-shadow: 10px 10px 20px orange;
+}
+
+.listItem {
+    margin-bottom: 10px;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px white;
+    min-width: 400px;
+}
+

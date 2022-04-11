@@ -1,0 +1,14 @@
+.planet {
+    justify-content: center;
+    align-items: center;
+    border-radius: 250px;
+    width: 90%;
+}
+.randomPlanet {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 15px white;
+    border-radius: 60px;
+    background-color: black;
+}
+
